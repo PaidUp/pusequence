@@ -1,0 +1,23 @@
+{
+  "name": "pu-sequence",
+  "version": "1.0.0",
+  "description": "generator sequences for orders and invoices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaidUp/PUSequence.git"
+  },
+  "author": "riclara@gmail.com",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/PaidUp/PUSequence/issues"
+  },
+  "homepage": "https://github.com/PaidUp/PUSequence#readme",
+  "dependencies": {
+    "async-lock": "^1.1.2",
+    "redis": "^2.8.0"
+  }
+}
